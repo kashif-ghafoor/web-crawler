@@ -1,6 +1,8 @@
 # serverless web crawler
 
 this application measures the latency and availability of websites.
+### Desgin Diagram
+![image](https://user-images.githubusercontent.com/58185339/176626964-7a6b0a5b-d5e3-4b26-8e97-cecee7258c60.png)
 
 ## Features
 
