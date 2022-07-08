@@ -3,7 +3,22 @@
 this application measures the latency and availability of websites.
 ### Desgin Diagram
 ![image](https://user-images.githubusercontent.com/58185339/176626964-7a6b0a5b-d5e3-4b26-8e97-cecee7258c60.png)
-
+## Technologies used
+ - AWS Lambda
+ - Amazone EvenetBridge
+ - DynamoDB
+ - API Gateway
+ - AWS CloudWatch
+ - CloudWatch Alarms
+ - AWS SNS(Simple Notification Service)
+ - AWS SDK
+ - AWS CDK
+ - AWS CodePipeline
+ - Node js
+ - React
+ - Material UI
+ - MongoDB Atlas
+ - 
 ## Features
 
 - measures latency and availability metrices
